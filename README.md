@@ -1,4 +1,4 @@
-# Whisperer
+# Inka
 
 Private, on-device dictation for macOS. Hold right ⌘, speak, release — text appears at the cursor. All recognition runs on your Mac; audio never leaves the machine.
 
